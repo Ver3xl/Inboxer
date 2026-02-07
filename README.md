@@ -1,7 +1,5 @@
 # 📧 Microsoft Inbox Checker (Inboxer)
 
-![Inboxer](https://opengraph.githubassets.com/1/Ver3xl/Inboxer)
-
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Requests](https://img.shields.io/badge/Requests-v2.31+-blue?style=for-the-badge)](https://pypi.org/project/requests/)
 [![Multi-Threaded](https://img.shields.io/badge/Multi--Threaded-Fast-brightgreen?style=for-the-badge)](https://github.com/Ver3xl/Inboxer)
@@ -102,3 +100,4 @@ This tool is for educational purposes only. The developer is not responsible for
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/Ver3xl">Ver3xl</a></sub>
 </div>
+
